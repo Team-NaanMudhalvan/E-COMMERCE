@@ -1,4 +1,4 @@
-# E-COMMERCE- url    [deployed link](https://24x7-shop.netlify.app/)
+# E-COMMERCE- url    [visit our E-commerce](https://24x7-shop.netlify.app/)
 
 # Naan Mudhalvan Project name - E-COMMERCE (Full stack with java)
 # Team Members -
