@@ -1,4 +1,4 @@
-#🎯 E-COMMERCE 🎯 url  :heavy_check_mark:  [visit our E-commerce](https://24x7-shop.netlify.app/)
+# 🎯 E-COMMERCE 🎯 url  :heavy_check_mark: :heavy_check_mark:  [visit our E-commerce](https://24x7-shop.netlify.app/) :heavy_check_mark: :heavy_check_mark:
 
 # Naan Mudhalvan Project name - 🚀🚀 E-COMMERCE (Full stack with java) 🚀🚀
 # 🚀🚀 Team Members 🚀🚀
